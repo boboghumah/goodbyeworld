@@ -1,0 +1,19 @@
+{
+  "name": "goodbyeworld",
+  "version": "1.0.0",
+  "description": "clattish expressions",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "clattish",
+    "expressions"
+  ],
+  "author": "Bob Clat",
+  "license": "ISC",
+  "dependencies": {
+    "nightwatch": "^0.9.8"
+  }
+}
